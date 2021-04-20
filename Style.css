@@ -1,1 +1,42 @@
+body {
+background-color:#CFBCDF;
+
+}
+
+h1 { 
+color:#60435F;
+font:bebas neue;
+text-align:center;
+font size:20pt;
+ }
+
+p {
+ text-align: center;
+ font size:14pt;
+ font: bebas neue;
+}
+
+ img { 
+border-color:black;
+border-width:2px;
+border-style:solid;
+border-radius:10%;
+
+ }
+
+ p, li {
+font-family:bebas neue;
+font-size:13pt;
+
+ }
+
+.center {
+display:block;
+margin-left:auto;
+margin-right:auto;
+width:60%;
+
+}
+
+
 
